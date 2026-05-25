@@ -1,0 +1,77 @@
+aid: relay-tx
+name: Relay Therapeutics
+description: >-
+  Relay Therapeutics is a Cambridge, Massachusetts clinical-stage precision
+  medicines company (NASDAQ: RLAY) using protein motion to drug historically
+  intractable oncology and genetic-disease targets. Its Dynamo platform
+  combines full-length protein engineering, cryo-EM, ambient-temperature
+  X-ray crystallography, long-timescale molecular dynamics, machine learning,
+  virtual screening, activity- and ligand-based screening, and an ML-powered
+  DNA-encoded library (REL-DEL) to design molecules against conformational
+  states that static structures miss. The clinical pipeline is led by
+  zovegalisib (RLY-2608), described as the first allosteric, pan-mutant,
+  isoform-selective PI3K-alpha inhibitor, in Phase 3 for HR+/HER2- breast
+  cancer and Phase 1/2 for vascular anomalies and PROS; RLY-8161, an NRAS-
+  selective inhibitor, is in Phase 1/2 for NRAS-mutant solid tumors; an
+  alpha-galactosidase A non-inhibitory chaperone for Fabry disease is in
+  discovery; lirafugratinib (RLY-4008, FGFR2) was out-licensed to Elevar
+  Therapeutics in December 2024. Relay has no public developer API, SDK, or
+  open-source release; the Dynamo platform is proprietary internal R&D
+  tooling, and the company's GitHub organization currently has no public
+  repositories. The commercial surface is therapeutic candidates, clinical
+  partnerships, and out-licensing rather than data products.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Drug Discovery
+  - Precision Medicine
+  - Oncology
+  - Genetic Disease
+  - Protein Motion
+  - Computational Chemistry
+  - Molecular Dynamics
+  - Cryo-EM
+  - Machine Learning
+  - DNA-Encoded Libraries
+  - Allosteric Inhibitors
+  - PI3K-Alpha
+  - NRAS
+  - FGFR2
+  - Fabry Disease
+  - Biotechnology
+  - Clinical Stage
+url: https://raw.githubusercontent.com/api-evangelist/relay-tx/refs/heads/main/apis.yml
+created: '2026-05-24'
+modified: '2026-05-24'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://relaytx.com
+  - type: Science
+    url: https://relaytx.com/science/
+  - type: DynamoPlatform
+    url: https://relaytx.com/dynamo-platform/
+  - type: Pipeline
+    url: https://relaytx.com/pipeline/
+  - type: Publications
+    url: https://relaytx.com/publications/
+  - type: Patients
+    url: https://relaytx.com/patients/
+  - type: Careers
+    url: https://relaytx.com/careers/
+  - type: Contact
+    url: https://relaytx.com/contact/
+  - type: InvestorRelations
+    url: https://ir.relaytx.com
+  - type: GitHub
+    url: https://github.com/relaytx
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/relay-therapeutics/
+  - type: Twitter
+    url: https://twitter.com/relaytx
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
